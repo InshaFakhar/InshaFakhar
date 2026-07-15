@@ -8,7 +8,7 @@
      be named "InshaFakhar").
   2. Put this file inside it as README.md — GitHub will automatically
      show it on your profile page.
-  3. Search for "YOUR-GITHUB-USERNAME" below and replace every
+  3. Search for "InshaFakhar" below and replace every
      instance with your real GitHub username. This is what powers
      the stats, streak, snake, and trophy widgets.
   4. Search for "REPLACE" comments for links you need to update
@@ -33,9 +33,9 @@
 
 <br/><br/>
 
-<!-- REPLACE "YOUR-GITHUB-USERNAME" below with your real GitHub username -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2563eb&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR-GITHUB-USERNAME&suffix=%20student" alt="status badge" />
+<!-- REPLACE "InshaFakhar" below with your real GitHub username -->
+<img src="https://komarev.com/ghpvc/?username=InshaFakhar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2563eb&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FInshaFakhar&suffix=%20student" alt="status badge" />
 
 </div>
 
@@ -107,19 +107,18 @@ whoami:
 
 <table width="100%">
 <tr>
-<td width="100%">
+<td width="100%" align="center">
 
-### 🏋️ FitPro
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=55&width=1000&section=header&text=%F0%9F%8F%8B%EF%B8%8F%20%20FitPro&fontSize=22&fontColor=ffffff&fontAlignY=62" width="100%" />
+
 **A production-ready fitness tracking application**
 
 Features authentication, calorie estimation, BMI calculator, workout tracking, activity history, Firestore synchronization, SQLite offline storage, onboarding, dark mode, and analytics.
 
-<img src="https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-2563EB?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-4F46E5?style=flat-square&logo=sqlite&logoColor=white" />
+<p><img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite" /></p>
 
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/YOUR-GITHUB-USERNAME/FitPro"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/FitPro"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -127,19 +126,18 @@ Features authentication, calorie estimation, BMI calculator, workout tracking, a
 <tr><td><br/></td></tr>
 
 <tr>
-<td width="100%">
+<td width="100%" align="center">
 
-### 🧭 AI Career Recommender
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=55&width=1000&section=header&text=%F0%9F%A7%AD%20%20AI%20Career%20Recommender&fontSize=22&fontColor=ffffff&fontAlignY=62" width="100%" />
+
 **An AI-powered career recommendation platform**
 
 Analyzes users' interests and skills to recommend suitable career paths using Machine Learning.
 
-<img src="https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=flat-square&logo=scikit-learn&logoColor=white" />
+<p><img src="https://skillicons.dev/icons?i=react,flask,python,sklearn" /></p>
 
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/YOUR-GITHUB-USERNAME/AI-Career-Recommender"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/AI-Career-Recommender"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -147,20 +145,18 @@ Analyzes users' interests and skills to recommend suitable career paths using Ma
 <tr><td><br/></td></tr>
 
 <tr>
-<td width="100%">
+<td width="100%" align="center">
 
-### 🗺️ Campus Navigation System
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=55&width=1000&section=header&text=%F0%9F%97%BA%EF%B8%8F%20%20Campus%20Navigation%20System&fontSize=22&fontColor=ffffff&fontAlignY=62" width="100%" />
+
 **A smart campus navigation mobile application**
 
 Helps students navigate university campuses using OpenStreetMap, with location-based navigation, campus building information, interactive maps, and an intuitive mobile experience.
 
-<img src="https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-2563EB?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-4F46E5?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenStreetMap-6D28D9?style=flat-square&logo=openstreetmap&logoColor=white" />
+<p><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> <img src="https://img.shields.io/badge/OpenStreetMap-2563EB?style=for-the-badge&logo=openstreetmap&logoColor=white" /></p>
 
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/YOUR-GITHUB-USERNAME/Campus-Navigation-System"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/Campus-Navigation-System"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -174,13 +170,13 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 
 <div align="center">
 
-<!-- REPLACE "YOUR-GITHUB-USERNAME" in every stats link below -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" />
+<!-- REPLACE "InshaFakhar" in every stats link below -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InshaFakhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InshaFakhar&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaFakhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 </div>
 
@@ -188,7 +184,7 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InshaFakhar&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&hide_border=true" width="100%" />
 
 </div>
 
@@ -196,7 +192,7 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=InshaFakhar&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" />
 
 </div>
 
@@ -214,7 +210,7 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
   2. Paste the workflow below into it, commit, and push.
   3. Wait a few minutes for the Action to run — it will create an
      "output" branch containing the generated SVG.
-  4. Replace "YOUR-GITHUB-USERNAME" in the <img> tag below.
+  4. Replace "InshaFakhar" in the <img> tag below.
 
   ----------------------------------------------------------------
   name: Generate Snake Animation
@@ -247,7 +243,7 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
@@ -347,7 +343,7 @@ Strengthening my portfolio and preparing for software engineering internships.
 <!-- REPLACE every href below with your real links -->
 <a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:REPLACE@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://REPLACE-WITH-YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
