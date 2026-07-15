@@ -330,7 +330,7 @@ Strengthening my portfolio and preparing for software engineering internships.
 <div align="center">
 
 <!-- REPLACE every href below with your real links -->
-<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN](https://www.linkedin.com/in/insha-fakhar-206782338/)"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:REPLACE@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://REPLACE-WITH-YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
