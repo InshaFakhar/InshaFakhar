@@ -96,56 +96,45 @@ I am a **Computer Science student** from Pakistan, currently pursuing my **BS in
 
 <table width="100%">
 <tr>
-<td width="100%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=55&width=1000&section=header&text=%F0%9F%8F%8B%EF%B8%8F%20%20FitPro&fontSize=22&fontColor=ffffff&fontAlignY=62" width="100%" />
-
-**A production-ready fitness tracking application**
-
-Features authentication, calorie estimation, BMI calculator, workout tracking, activity history, Firestore synchronization, SQLite offline storage, onboarding, dark mode, and analytics.
+### 🏋️ FitPro
 
 <p><img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite" /></p>
 
+> A production-ready fitness tracking app with authentication, calorie estimation, BMI calculator, workout tracking, activity history, Firestore sync, SQLite offline storage, onboarding, dark mode, and analytics.
+
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/InshaFakhar/FitPro"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/FitPro"><img src="https://img.shields.io/badge/View_Repository-6D28D9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr><td><br/></td></tr>
-
-<tr>
-<td width="100%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=55&width=1000&section=header&text=%F0%9F%A7%AD%20%20AI%20Career%20Recommender&fontSize=22&fontColor=ffffff&fontAlignY=62" width="100%" />
-
-**An AI-powered career recommendation platform**
-
-Analyzes users' interests and skills to recommend suitable career paths using Machine Learning.
+### 🧭 AI Career Recommender
 
 <p><img src="https://skillicons.dev/icons?i=react,flask,python,sklearn" /></p>
 
+> An AI-powered career recommendation platform that analyzes users' interests and skills to suggest suitable career paths using Machine Learning.
+
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/InshaFakhar/AI-Career-Recommender"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/AI-Career-Recommender"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
-
-<tr><td><br/></td></tr>
-
 <tr>
-<td width="100%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=55&width=1000&section=header&text=%F0%9F%97%BA%EF%B8%8F%20%20Campus%20Navigation%20System&fontSize=22&fontColor=ffffff&fontAlignY=62" width="100%" />
+### 🗺️ Campus Navigation System
 
-**A smart campus navigation mobile application**
+<p><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /></p>
 
-Helps students navigate university campuses using OpenStreetMap, with location-based navigation, campus building information, interactive maps, and an intuitive mobile experience.
-
-<p><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> <img src="https://img.shields.io/badge/OpenStreetMap-2563EB?style=for-the-badge&logo=openstreetmap&logoColor=white" /></p>
+> A smart campus navigation mobile app built with OpenStreetMap, offering location-based navigation, campus building info, interactive maps, and an intuitive mobile experience.
 
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/InshaFakhar/Campus-Navigation-System"><img src="https://img.shields.io/badge/View_Repository-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/Campus-Navigation-System"><img src="https://img.shields.io/badge/View_Repository-4F46E5?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -242,7 +231,7 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 <div align="center">
 <img src="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-<sub>⚠️ This will show broken until the one-time GitHub Action setup above is done — it needs an <code>output</code> branch to exist in your repo first.</sub>
+<sub>The snake "eats" your real contribution graph — so it will look empty until you have public commits on your account. Once you commit regularly to your repos, the squares (and the snake) will fill in automatically within a day.</sub>
 
 </div>
 
