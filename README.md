@@ -47,22 +47,11 @@
 ## 💜 About Me
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-I'm a **Computer Science student** at the **University of Gujrat, Pakistan**, pursuing my **BS in Computer Science**, with a genuine passion for building modern mobile and web applications.
+I am a **Computer Science student** from Pakistan, currently pursuing my **BS in Computer Science** at the **University of Gujrat**. I enjoy building modern mobile and web applications and solving real-world problems through clean, thoughtful code.
 
-```yaml
-whoami:
-  name: "Insha Fakhar"
-  education: "BS Computer Science — University of Gujrat, Pakistan"
-  focus: ["Flutter Development", "MERN Stack Development", "Machine Learning"]
-  currently: "Building my portfolio & preparing for software engineering internships"
-  fun_fact: "I enjoy turning messy real-world problems into clean, working apps"
-```
+**Key Expertise:** Flutter Development • MERN Stack Development • Machine Learning • Cross-Platform Mobile Apps • Clean & User-Friendly UI
 
-- 🌱 I enjoy solving real-world problems through technology and continuously sharpening my development skills
-- 💻 I have hands-on experience across **Flutter**, the **MERN Stack**, and **Machine Learning**
-- 🎯 I care about building apps that are clean, user-friendly, and genuinely useful
-- 🚀 Currently building projects to strengthen my portfolio and preparing for **software engineering internships**
-- 📫 Always open to learning, collaborating, and connecting with fellow developers
+**Current Focus:** Strengthening my portfolio with production-ready projects while preparing for software engineering internships.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
 
@@ -192,7 +181,15 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=InshaFakhar&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=InshaFakhar&theme=discord&column=4&row=2&margin-w=10&margin-h=10" />
+
+<!--
+  Note: this widget can take a few seconds to load the first time, and
+  needs at least one public repository with some activity to display
+  trophies. If it still shows broken after a minute, refresh the page —
+  the trophy service is community-run and occasionally slow.
+-->
+
 
 </div>
 
@@ -244,6 +241,9 @@ Helps students navigate university campuses using OpenStreetMap, with location-b
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+<sub>⚠️ This will show broken until the one-time GitHub Action setup above is done — it needs an <code>output</code> branch to exist in your repo first.</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
@@ -325,11 +325,15 @@ Strengthening my portfolio and preparing for software engineering internships.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## 💬 Random Dev Quote
+## 🧭 My Approach
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+*"I'd rather build something small and working than something big and unfinished."*
+
+**What drives me:** Clean, readable code • Genuine curiosity • Consistent small progress • Building things people can actually use
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
@@ -345,20 +349,6 @@ Strengthening my portfolio and preparing for software engineering internships.
 <a href="mailto:REPLACE@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://REPLACE-WITH-YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🧭 My Approach
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-*"I'm still learning — and I'd rather build something small and working than something big and unfinished."*
-
-**What drives me:** Clean, readable code • Genuine curiosity • Consistent small progress • Building things people can actually use
 
 </div>
 
