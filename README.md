@@ -104,6 +104,7 @@ I am a **Computer Science student** from Pakistan, currently pursuing my **BS in
 > A production-ready fitness tracking app with authentication, calorie estimation, BMI calculator, workout tracking, activity history, Firestore sync, SQLite offline storage, onboarding, dark mode, and analytics.
 
 <!-- REPLACE with your actual repo link -->
+<!-- Couldn't confirm a "FitPro" repo on your GitHub — double check this link/repo name -->
 <a href="https://github.com/InshaFakhar/FitPro"><img src="https://img.shields.io/badge/View_Repository-6D28D9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
@@ -116,7 +117,7 @@ I am a **Computer Science student** from Pakistan, currently pursuing my **BS in
 > An AI-powered career recommendation platform that analyzes users' interests and skills to suggest suitable career paths using Machine Learning.
 
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/InshaFakhar/AI-Career-Recommender"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/ai-career-recommender"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -130,7 +131,7 @@ I am a **Computer Science student** from Pakistan, currently pursuing my **BS in
 > A smart campus navigation mobile app built with OpenStreetMap, offering location-based navigation, campus building info, interactive maps, and an intuitive mobile experience.
 
 <!-- REPLACE with your actual repo link -->
-<a href="https://github.com/InshaFakhar/Campus-Navigation-System"><img src="https://img.shields.io/badge/View_Repository-4F46E5?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar/smart-campus-system"><img src="https://img.shields.io/badge/View_Repository-4F46E5?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -330,10 +331,10 @@ Strengthening my portfolio and preparing for software engineering internships.
 <div align="center">
 
 <!-- REPLACE every href below with your real links -->
-<a href="[ttps://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN](https://www.linkedin.com/in/insha-fakhar-206782338/)][([https://www.linkedin.com/in/insha-fakhar-206782338](https://www.linkedin.com/in/insha-fakhar-206782338/)]([https://www.linkedin.com/in/insha-fakhar-206782338](https://www.linkedin.com/in/insha-fakhar-206782338/)/)/)"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:REPLACE@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/insha-fakhar-206782338"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:inshafakhar0@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://REPLACE-WITH-YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-mu-lime-42.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
