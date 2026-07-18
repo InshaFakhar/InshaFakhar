@@ -2,43 +2,48 @@
   ═══════════════════════════════════════════════════════════════════
   README.md — GitHub Profile for Insha Fakhar
   ═══════════════════════════════════════════════════════════════════
-  HOW TO USE THIS FILE:
-  1. This goes in a repository named exactly the same as your GitHub
-     username — InshaFakhar/InshaFakhar. GitHub will automatically
-     show it on your profile page.
-  2. All personal links (LinkedIn, email, GitHub, portfolio) and repo
-     links are already filled in for you.
-  3. The "FitPro" repo link below is unconfirmed — update it if the
-     repo name/URL is different.
+  This goes in a repository named exactly the same as your GitHub
+  username — InshaFakhar/InshaFakhar. GitHub shows it on your profile
+  page automatically. All personal links and repo links are filled in.
+  The "FitPro" repo link is unconfirmed — update if the name differs.
   ═══════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-# Insha Fakhar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:5B21B6,100:2563EB&height=130&section=header&text=Insha%20Fakhar&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Flutter%20%C2%B7%20MERN%20Stack%20%C2%B7%20Machine%20Learning&descAlignY=68&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=6D28D9&center=true&vCenter=true&width=600&lines=Flutter+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=550&lines=BS+Computer+Science+%40+University+of+Gujrat;Building+clean%2C+useful+software" alt="Typing SVG" />
 
-BS Computer Science, University of Gujrat &nbsp;•&nbsp; Pakistan
+<br/>
 
 <!-- REPLACE "InshaFakhar" below if your username ever changes -->
-<img src="https://komarev.com/ghpvc/?username=InshaFakhar&style=flat&color=6D28D9&label=Profile+views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=InshaFakhar&style=flat-square&color=6D28D9&label=Profile+views" alt="profile views" />
 
 </div>
 
 <br/>
 
-## About
+## 👋 About Me
 
-I am a Computer Science student at the University of Gujrat, Pakistan, with a focus on building modern mobile and web applications. I enjoy solving practical problems through clean, well-structured code.
+```python
+class InshaFakhar:
+    def __init__(self):
+        self.education = "BS Computer Science, University of Gujrat"
+        self.role = ["Flutter Developer", "MERN Stack Developer", "ML Enthusiast"]
+        self.currently_building = "a strong portfolio for SE internships"
 
-**Areas of focus:** Flutter Development, MERN Stack Development, Machine Learning, Cross-Platform Mobile Apps
+    def approach(self):
+        return "clean, well-structured code that solves real problems"
+```
 
-**Currently:** Building production-quality projects for my portfolio and preparing for software engineering internships.
+I'm a Computer Science student who enjoys building modern mobile and web applications, and I'm currently strengthening my portfolio while preparing for software engineering internships.
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 <br/>
@@ -60,19 +65,21 @@ I am a Computer Science student at the University of Gujrat, Pakistan, with a fo
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" alt="Tools Icons" />
 
+</div>
+
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-**FitPro**
+**🏋️ FitPro**
 
-A production-ready fitness tracking app with authentication, calorie estimation, BMI calculator, workout tracking, Firestore sync, and SQLite offline storage.
+Production-ready fitness tracker — auth, calorie estimation, BMI calculator, workout tracking, Firestore sync, SQLite offline storage.
 
-`Flutter` `Firebase` `SQLite`
+<img src="https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Firebase-2563EB?style=flat-square&logo=firebase&logoColor=white" height="20"/>
 
 <!-- REPLACE with your actual repo link if different -->
 [View Repository →](https://github.com/InshaFakhar/FitPro)
@@ -80,22 +87,22 @@ A production-ready fitness tracking app with authentication, calorie estimation,
 </td>
 <td width="33%" valign="top">
 
-**AI Career Recommender**
+**🧭 AI Career Recommender**
 
-An AI-powered platform that analyzes users' interests and skills to recommend suitable career paths using Machine Learning.
+AI-powered platform that analyzes users' interests and skills to recommend career paths using Machine Learning.
 
-`React` `Flask` `Machine Learning`
+<img src="https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white" height="20"/>
 
 [View Repository →](https://github.com/InshaFakhar/ai-career-recommender)
 
 </td>
 <td width="33%" valign="top">
 
-**Campus Navigation System**
+**🗺️ Campus Navigation System**
 
-A smart campus navigation app built with OpenStreetMap, offering location-based navigation and interactive maps.
+Smart campus navigation app built with OpenStreetMap — location-based navigation and interactive maps.
 
-`Flutter` `Dart` `OpenStreetMap`
+<img src="https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/OpenStreetMap-2563EB?style=flat-square&logo=openstreetmap&logoColor=white" height="20"/>
 
 [View Repository →](https://github.com/InshaFakhar/smart-campus-system)
 
@@ -105,24 +112,28 @@ A smart campus navigation app built with OpenStreetMap, offering location-based 
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<sub>These widgets are powered by free, community-run services and can occasionally take a moment to load — this isn't specific to your account.</sub>
+<sub>Powered by free, community-run widgets — they can occasionally take a moment to load.</sub>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InshaFakhar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InshaFakhar&theme=default&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InshaFakhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=InshaFakhar&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaFakhar&layout=compact&theme=default&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaFakhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InshaFakhar&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&hide_border=true" width="97%" />
 
 </div>
 
 <br/>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <!--
   Requires a one-time GitHub Action setup. Add this file to your
@@ -167,29 +178,66 @@ A smart campus navigation app built with OpenStreetMap, offering location-based 
 
 <br/>
 
-## Currently Working On
+## 🔭 Currently Working On
 
-- **Flutter app development** — building production-ready mobile apps with clean architecture and offline-first data handling
-- **MERN stack projects** — full-stack web applications with React front ends and Node/Express APIs
-- **Machine learning fundamentals** — exploring ML models through applied, recommendation-style projects
-- **Internship preparation** — data structures, algorithms, and technical interview practice
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📱 Flutter App Development**
+
+Building production-ready mobile apps with clean architecture and offline-first data handling.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 MERN Stack Projects**
+
+Full-stack web applications with React front ends and Node/Express APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Machine Learning**
+
+Exploring ML models through applied, recommendation-style projects.
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Internship Prep**
+
+Data structures, algorithms, and technical interview practice.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Currently Learning
-
-`Advanced Flutter State Management` `Node.js & Express APIs` `Machine Learning Fundamentals` `Data Structures & Algorithms`
-
-<br/>
-
-## Contact
+## 🌱 Currently Learning
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/insha-fakhar-206782338">LinkedIn</a> &nbsp;•&nbsp;
-<a href="mailto:inshafakhar0@gmail.com">Email</a> &nbsp;•&nbsp;
-<a href="https://github.com/InshaFakhar">GitHub</a> &nbsp;•&nbsp;
-<a href="https://portfolio-mu-lime-42.vercel.app">Portfolio</a>
+<img src="https://img.shields.io/badge/Advanced_Flutter_State_Management-6D28D9?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js_%26_Express_APIs-2563EB?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6D28D9?style=flat-square&logo=leetcode&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/insha-fakhar-206782338"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:inshafakhar0@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://portfolio-mu-lime-42.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </div>
 
