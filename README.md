@@ -225,11 +225,13 @@ I am a **Computer Science student** from Pakistan, currently pursuing my **BS in
 -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
-<sub>⚠️ <b>Action required:</b> this image will stay broken until you add the <code>.github/workflows/snake.yml</code> file (full code is in the comment just above this line in the raw README) to your <code>InshaFakhar/InshaFakhar</code> repo, commit it, and let the Action run once. It creates an <code>output</code> branch that this image pulls from — nothing shows until that branch exists.</sub>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/InshaFakhar/InshaFakhar/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 </div>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:2563EB&height=2&width=1000" width="100%" />
