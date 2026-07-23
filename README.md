@@ -28,34 +28,65 @@
 
 I'm a Computer Science undergraduate at the University of Gujrat, focused on building clean, production-quality mobile and web applications. My work spans Flutter, the MERN stack, and applied machine learning, and I'm currently strengthening my portfolio ahead of software engineering internships.
 
-- 🎓 BS Computer Science, University of Gujrat
-- 💻 Flutter Developer · MERN Stack Developer · ML Enthusiast
-- 🎯 Currently preparing for SE internships
-- 🧠 Approach: clean, well-structured code that solves real problems
+| | |
+|---|---|
+| **Education** | BS Computer Science, University of Gujrat |
+| **Focus areas** | Flutter Development · MERN Stack · Machine Learning |
+| **Currently** | Preparing for software engineering internships |
+| **Approach** | Clean, well-structured code that solves real problems |
 
 <br/>
 
 ## Tech Stack
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Icons" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile Icons" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend Icons" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" alt="Database Icons" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" alt="Tools Icons" />
+<table>
+<tr>
+<td width="140"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="24"/>
+<img src="https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="24"/>
+</td>
+</tr>
+<tr>
+<td><b>Mobile</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="24"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white" height="24"/>
+</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="24"/>
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="24"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -65,7 +96,7 @@ I'm a Computer Science undergraduate at the University of Gujrat, focused on bui
 <tr>
 <td width="33%" valign="top">
 
-**🏋️ FitPro**
+**FitPro**
 
 Production-ready fitness tracker — auth, calorie estimation, BMI calculator, workout tracking, Firestore sync, SQLite offline storage.
 
@@ -77,7 +108,7 @@ Production-ready fitness tracker — auth, calorie estimation, BMI calculator, w
 </td>
 <td width="33%" valign="top">
 
-**🧭 AI Career Recommender**
+**AI Career Recommender**
 
 AI-powered platform that analyzes users' interests and skills to recommend career paths using machine learning.
 
@@ -88,7 +119,7 @@ AI-powered platform that analyzes users' interests and skills to recommend caree
 </td>
 <td width="33%" valign="top">
 
-**🗺️ Campus Navigation System**
+**Campus Navigation System**
 
 Smart campus navigation app built with OpenStreetMap — location-based navigation and interactive maps.
 
@@ -170,10 +201,12 @@ Smart campus navigation app built with OpenStreetMap — location-based navigati
 
 ## Currently Working On
 
-| | |
+| Area | Details |
 |---|---|
-| **📱 Flutter App Development** — Building production-ready mobile apps with clean architecture and offline-first data handling. | **🌐 MERN Stack Projects** — Full-stack web applications with React front ends and Node/Express APIs. |
-| **🤖 Machine Learning** — Exploring ML models through applied, recommendation-style projects. | **🎯 Internship Prep** — Data structures, algorithms, and technical interview practice. |
+| **Flutter App Development** | Building production-ready mobile apps with clean architecture and offline-first data handling. |
+| **MERN Stack Projects** | Full-stack web applications with React front ends and Node/Express APIs. |
+| **Machine Learning** | Exploring ML models through applied, recommendation-style projects. |
+| **Internship Prep** | Data structures, algorithms, and technical interview practice. |
 
 <br/>
 
