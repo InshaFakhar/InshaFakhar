@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:5B21B6,100:2563EB&height=130&section=header&text=Insha%20Fakhar&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Flutter%20%C2%B7%20MERN%20Stack%20%C2%B7%20Machine%20Learning&descAlignY=68&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=550&lines=BS+Computer+Science+%40+University+of+Gujrat;Software+Engineer+in+the+making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=550&lines=BS+Computer+Science+%40+University+of+Gujrat;Aspiring+Software+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -226,8 +226,16 @@ Smart campus navigation app built with OpenStreetMap — location-based navigati
 <a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://portfolio-mu-lime-42.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
+
+---
 
 <div align="center">
+
 <sub>© 2026 Insha Fakhar — BS Computer Science, University of Gujrat</sub>
+
+<br/>
+
+<sub>Made with ❤️ by <a href="https://github.com/InshaFakhar">Insha Fakhar</a></sub>
+
 </div>
