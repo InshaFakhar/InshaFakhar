@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:5B21B6,100:2563EB&height=130&section=header&text=Insha%20Fakhar&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Flutter%20%C2%B7%20MERN%20Stack%20%C2%B7%20Machine%20Learning&descAlignY=68&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=550&lines=BS+Computer+Science+%40+University+of+Gujrat;Building+clean%2C+useful+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=550&lines=BS+Computer+Science+%40+University+of+Gujrat;Software+Engineer+in+the+making" alt="Typing SVG" />
 
 <br/>
 
@@ -24,52 +24,42 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-```python
-class InshaFakhar:
-    def __init__(self):
-        self.education = "BS Computer Science, University of Gujrat"
-        self.role = ["Flutter Developer", "MERN Stack Developer", "ML Enthusiast"]
-        self.currently_building = "a strong portfolio for SE internships"
+I'm a Computer Science undergraduate at the University of Gujrat, focused on building clean, production-quality mobile and web applications. My work spans Flutter, the MERN stack, and applied machine learning, and I'm currently strengthening my portfolio ahead of software engineering internships.
 
-    def approach(self):
-        return "clean, well-structured code that solves real problems"
-```
-
-I'm a Computer Science student who enjoys building modern mobile and web applications, and I'm currently strengthening my portfolio while preparing for software engineering internships.
+- 🎓 BS Computer Science, University of Gujrat
+- 💻 Flutter Developer · MERN Stack Developer · ML Enthusiast
+- 🎯 Currently preparing for SE internships
+- 🧠 Approach: clean, well-structured code that solves real problems
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Frontend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Icons" />
 
 **Mobile**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile Icons" />
 
 **Backend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend Icons" />
 
 **Database**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" alt="Database Icons" />
 
 **Tools**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" alt="Tools Icons" />
 
-</div>
-
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
@@ -89,7 +79,7 @@ Production-ready fitness tracker — auth, calorie estimation, BMI calculator, w
 
 **🧭 AI Career Recommender**
 
-AI-powered platform that analyzes users' interests and skills to recommend career paths using Machine Learning.
+AI-powered platform that analyzes users' interests and skills to recommend career paths using machine learning.
 
 <img src="https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white" height="20"/>
 
@@ -112,7 +102,7 @@ Smart campus navigation app built with OpenStreetMap — location-based navigati
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <sub>Powered by free, community-run widgets — they can occasionally take a moment to load.</sub>
 
@@ -133,7 +123,7 @@ Smart campus navigation app built with OpenStreetMap — location-based navigati
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <!--
   Requires a one-time GitHub Action setup. Add this file to your
@@ -178,70 +168,32 @@ Smart campus navigation app built with OpenStreetMap — location-based navigati
 
 <br/>
 
-## 🔭 Currently Working On
+## Currently Working On
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📱 Flutter App Development**
-
-Building production-ready mobile apps with clean architecture and offline-first data handling.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 MERN Stack Projects**
-
-Full-stack web applications with React front ends and Node/Express APIs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Machine Learning**
-
-Exploring ML models through applied, recommendation-style projects.
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Internship Prep**
-
-Data structures, algorithms, and technical interview practice.
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **📱 Flutter App Development** — Building production-ready mobile apps with clean architecture and offline-first data handling. | **🌐 MERN Stack Projects** — Full-stack web applications with React front ends and Node/Express APIs. |
+| **🤖 Machine Learning** — Exploring ML models through applied, recommendation-style projects. | **🎯 Internship Prep** — Data structures, algorithms, and technical interview practice. |
 
 <br/>
 
-## 🌱 Currently Learning
-
-<div align="center">
+## Currently Learning
 
 <img src="https://img.shields.io/badge/Advanced_Flutter_State_Management-6D28D9?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js_%26_Express_APIs-2563EB?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6D28D9?style=flat-square&logo=leetcode&logoColor=white" />
 
-</div>
-
 <br/>
 
-## 🤝 Connect With Me
-
-<div align="center">
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/insha-fakhar-206782338"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:inshafakhar0@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/InshaFakhar"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://portfolio-mu-lime-42.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 <sub>© 2026 Insha Fakhar — BS Computer Science, University of Gujrat</sub>
