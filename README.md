@@ -5,7 +5,6 @@
   This goes in a repository named exactly the same as your GitHub
   username — InshaFakhar/InshaFakhar. GitHub shows it on your profile
   page automatically. All personal links and repo links are filled in.
-  The "FitPro" repo link is unconfirmed — update if the name differs.
   ═══════════════════════════════════════════════════════════════════
 -->
 
@@ -102,8 +101,7 @@ Production-ready fitness tracker — auth, calorie estimation, BMI calculator, w
 
 <img src="https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Firebase-2563EB?style=flat-square&logo=firebase&logoColor=white" height="20"/>
 
-<!-- REPLACE with your actual repo link if different -->
-[View Repository →](https://github.com/InshaFakhar/FitPro)
+[View Repository →](https://github.com/InshaFakhar/Fitness_tracker)
 
 </td>
 <td width="33%" valign="top">
