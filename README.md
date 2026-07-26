@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:2563EB&height=160&section=header&text=Insha%20Fakhar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=15" width="100%" />
+# Hi, I'm Insha Fakhar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=BS+Computer+Science+%40+University+of+Gujrat;Building+AI-Powered+Mobile+%26+Web+Applications;Preparing+for+Software+Engineering+%26+AI+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=BS+Computer+Science+%40+University+of+Gujrat;Flutter+Developer+%C2%B7+Full+Stack+Engineer;Building+AI-Powered+Mobile+%26+Web+Applications;Preparing+for+Software+Engineering+%26+AI+Internships" alt="Typing SVG" />
 
 <br/>
 
@@ -85,7 +85,7 @@ I care about clean architecture, honest documentation, and code that still makes
 <td>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="24"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/Groq_API-6D28D9?style=flat-square&logo=lightning&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Groq_API-6D28D9?style=flat-square" height="24"/>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ I care about clean architecture, honest documentation, and code that still makes
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="24"/>
-<img src="https://img.shields.io/badge/Groq_API-6D28D9?style=flat-square&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Groq_API-6D28D9?style=flat-square" height="24"/>
 </td>
 </tr>
 <tr>
