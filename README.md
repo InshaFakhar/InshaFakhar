@@ -5,9 +5,9 @@
 
 <div align="center">
 
-# Hi, I'm Insha Fakhar 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:5B21B6,100:2563EB&height=130&section=header&text=Insha%20Fakhar&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Flutter%20Developer%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20ML%20Enthusiast&descAlignY=68&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=BS+Computer+Science+%40+University+of+Gujrat;Flutter+Developer+%C2%B7+Full+Stack+Engineer;Building+AI-Powered+Mobile+%26+Web+Applications;Preparing+for+Software+Engineering+%26+AI+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=BS+Computer+Science+%40+University+of+Gujrat;Building+AI-Powered+Mobile+%26+Web+Applications;Preparing+for+Software+Engineering+%26+AI+Internships" alt="Typing SVG" />
 
 <br/>
 
@@ -373,3 +373,5 @@ I'd rather ship a smaller feature that's well-architected than a large one held 
 <sub>Made with ❤️ by <a href="https://github.com/InshaFakhar">Insha Fakhar</a></sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:2563EB&height=100&section=footer" width="100%" />
